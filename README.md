@@ -4,7 +4,8 @@
 
 📚 In the past year, I have continued to develop my skills through project-based learning from several quality sources such as, [Scrimba](https://scrimba.com/home), [Boot.dev](https://www.boot.dev/), and [BrainStation](https://brainstation.io/online/software-engineering-bootcamp).
 
-💻 Some of my notable projects are [Bandsite](https://github.com/j-stax/james-ahn-bandsite), [Static Site Generator](https://github.com/j-stax/static-site-generator), and [Music Library] (https://github.com/j-stax/music-library-with-auth).
+💻 Some of my notable projects are [Bandsite](https://github.com/j-stax/james-ahn-bandsite), [Static Site Generator](https://github.com/j-stax/static-site-generator), 
+and [Music Library] (https://github.com/j-stax/music-library-with-auth).
 
 🌐 I encourage you to visit my [developer page](https://www.jamesahn.dev/) to learn more about me and the projects I've worked on.
 
